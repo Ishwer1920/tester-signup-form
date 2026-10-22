@@ -11,7 +11,8 @@ Takes about 3 minutes.
 ---
 
 ## 1. Create the spreadsheet
-1. Go to **https://sheets.new** (creates a blank Google Sheet).
+1. Go to **https://sheets.new** (creates a blank Google Sheet) — or just use your
+   existing `play_store_testing` sheet.
 2. Give it a name, e.g. **Signups**. This is the sheet you'll share/download.
 
 ## 2. Add the script
