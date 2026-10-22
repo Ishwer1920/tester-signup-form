@@ -10,10 +10,11 @@ Takes about 3 minutes.
 
 ---
 
-## 1. Create the spreadsheet
-1. Go to **https://sheets.new** (creates a blank Google Sheet) — or just use your
-   existing `play_store_testing` sheet.
-2. Give it a name, e.g. **Signups**. This is the sheet you'll share/download.
+## 1. Open your spreadsheet
+1. Open your existing **play_store_testing** Google Sheet — the one with the
+   **Testing / Developer / Dev Name** tabs. That's where the data will go.
+   (You don't need to create a new sheet, and your website URL has nothing to
+   do with this step.)
 
 ## 2. Add the script
 1. In the sheet: **Extensions → Apps Script**.
