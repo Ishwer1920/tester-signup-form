@@ -12,7 +12,7 @@
   // save every submission to your sheet: tester -> "Testing" tab, developer ->
   // "Developer" tab, dev-name suggestion -> "Dev Name" tab. Leave it "" to run
   // locally (data only logged to the console — nothing is saved).
-  const SHEET_ENDPOINT = "";
+  const SHEET_ENDPOINT = "https://script.google.com/macros/s/AKfycbymIFmWuXjIxCKt8rTZ7MH5DIx6do09jtnNrR1sAJvtsCV8tyq9mcfw3lu9ZDrcHtBp/exec";
 
   // ---------- View switching ----------
   const show = (el) => (el.hidden = false);
