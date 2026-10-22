@@ -8,9 +8,10 @@
   const successText = document.getElementById("success-text");
 
   // ====== Google Sheet endpoint (see SETUP-SHEET.md) ======
-  // Paste your Apps Script Web App URL between the quotes to save every
-  // submission to your sheet. Testers -> "Testers" tab, Developers ->
-  // "Developers" tab. Leave it "" to run locally (data only logged to console).
+  // Paste your Apps Script Web App URL (ends in /exec) between the quotes to
+  // save every submission to your sheet: tester -> "Testing" tab, developer ->
+  // "Developer" tab, dev-name suggestion -> "Dev Name" tab. Leave it "" to run
+  // locally (data only logged to the console — nothing is saved).
   const SHEET_ENDPOINT = "";
 
   // ---------- View switching ----------
